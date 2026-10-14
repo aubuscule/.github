@@ -1,0 +1,2 @@
+# .github
+Aubuscule general presentation
